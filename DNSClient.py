@@ -3,7 +3,7 @@ import dns.nameserver
 
 # Set the IP address of the local DNS server and a public DNS server
 local_host_ip = "75.75.75.75"
-real_name_server = "204.106.240.53" # Research public DNS servers to find a valid DNS server IP address to use
+real_name_server = "8.8.8.8" # Research public DNS servers to find a valid DNS server IP address to use
 
 
 # Create a list of domain names to query - use the same list from the DNS Server
